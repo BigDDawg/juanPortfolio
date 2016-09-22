@@ -829,6 +829,7 @@ aside.cta-quote span.quote {
   position: relative;
   -webkit-filter: grayscale(0);
   filter: grayscale(0);
+  max-height: 170px; 
 }
 #portfoliolist .portfolio .portfolio-wrapper img:hover {
   -webkit-filter: grayscale(1);
